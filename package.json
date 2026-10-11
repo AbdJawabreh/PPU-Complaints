@@ -1,0 +1,7 @@
+{
+  "name": "ppu-complaints",
+  "version": "1.0.0",
+  "private": true,
+  "description": "نسخة فرونت إند محلية لنظام الشكاوى — جامعة بوليتكنك فلسطين",
+  "scripts": { "start": "node server.mjs", "test": "node --test tests/logic.test.cjs" }
+}
